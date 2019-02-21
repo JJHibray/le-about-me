@@ -3,7 +3,7 @@
 }
 
 .italics {
-    font: italic;
+    font-style: italic;
 }
 
 .background {
